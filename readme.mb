@@ -1,0 +1,7 @@
+The following repo is set to check Monty Hall Problem is correct.
+
+The simulation_test.rb file is used to mock out results.
+You can run `rake` to run the entire test suite. 
+
+NOTE: simulation_test is set to 10,000 records and as a result there is room for error, typically a 1-2% plus or minus.
+**setting the simulation_test to 100,000 records appears to remove the problem above and is more consistent for 2/3rds rule.
